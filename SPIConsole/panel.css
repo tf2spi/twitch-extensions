@@ -1,0 +1,14 @@
+#conoutput {
+	border-width: 5px;
+	border-color: green;
+	color: green;
+}
+#conline {
+	border-color: green;
+}
+#conprompt {
+	color: green;
+}
+#coninput {
+	color: green;
+}
